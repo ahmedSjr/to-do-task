@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Do my homeworks",
+      "time": "Sep 12 at 9:00",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Buy food for the dog ",
+      "time": "Sep 13 at 7:30",
+      "reminder": false,
+      "id": 2
+    },
+    {
+      "text": "Finish gta 5",
+      "time": "Oct 22 at 1:35",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
